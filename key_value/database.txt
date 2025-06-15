@@ -1,0 +1,4 @@
+25,ali
+40,someotherperson
+20,andrea
+10,remzi
